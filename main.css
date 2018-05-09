@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+h1,h2,h3,h4,h5,h6,p {
+  margin-bottom: 20px;
+}
+
+nav {
+  height: 50px;
+}
+
+.sect {
+  height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+  
+
+.subSection {
+  height: 50%;
+  background-color: aqua;
+}
+  
+
+.sectOne {
+  background-image: url('img/reading.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.sectTwo {
+  background-image: url('img/coffee-flower.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.sectThree {
+  background-image: url('img/teaPot.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
